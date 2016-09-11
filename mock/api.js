@@ -1,0 +1,1 @@
+ module.exports = require('puer-mock')(__filename, './api.json');
