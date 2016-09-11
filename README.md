@@ -1,6 +1,6 @@
 # web-enviroment
 
-> 单元测
+> 单页测试+持续集成
 
 ## Build Setup
 
