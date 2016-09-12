@@ -1,6 +1,8 @@
 
 [![Build Status](https://travis-ci.org/linshuizhaoying/web-ci-enviroment.svg?branch=master)](https://travis-ci.org/linshuizhaoying/web-ci-enviroment)
 
+[![Coverage Status](https://coveralls.io/repos/github/linshuizhaoying/web-ci-enviroment/badge.svg?branch=master)](https://coveralls.io/github/linshuizhaoying/web-ci-enviroment?branch=master)
+
 # web-enviroment
 
 > 单页测试+持续集成

@@ -12,3 +12,5 @@ sudo: false
 script:
     - "npm run unit"
     - "npm run lint"
+after_script:
+    - "npm run cover"
