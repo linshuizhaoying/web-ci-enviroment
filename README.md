@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/linshuizhaoying/web-ci-enviroment.svg?branch=master)](https://travis-ci.org/linshuizhaoying/web-ci-enviroment)
+
 # web-enviroment
 
 > 单页测试+持续集成
