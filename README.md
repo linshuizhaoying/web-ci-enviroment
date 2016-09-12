@@ -7,5 +7,7 @@
 
 > 单元测试+持续集成+mock
 
+	[coveralls](https://coveralls.io/)
+	[travis-ci](https://travis-ci.com)
   [具体文章](http://haoqiao.me/2016/09/11/build-new-web-environment.html)
 
